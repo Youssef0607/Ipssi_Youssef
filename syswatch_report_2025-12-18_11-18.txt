@@ -1,0 +1,25 @@
+Rapport SYSWATCH - jeu. 18 déc. 2025 11:18:48 UTC
+
+[34m==== CPU / RAM ====[0m
+CPU usage : 5%
+RAM usage : 13%
+
+[34m==== DISQUE ====[0m
+Filesystem                         Size  Used Avail Use% Mounted on
+
+[34m==== TOP PROCESSUS ====[0m
+    PID COMMAND         %CPU %MEM
+      1 systemd          0.2  0.3
+   1518 sshd             0.2  0.1
+    749 vmtoolsd         0.1  0.2
+     23 migration/1      0.1  0.0
+     53 kworker/u258:1-  0.1  0.0
+    PID COMMAND         %CPU %MEM
+    501 multipathd       0.0  0.6
+    858 unattended-upgr  0.0  0.5
+   1840 packagekitd      0.0  0.5
+    444 systemd-journal  0.0  0.4
+    836 udisksd          0.0  0.3
+
+[34m==== MISES À JOUR ====[0m
+Mises à jour disponibles : 59

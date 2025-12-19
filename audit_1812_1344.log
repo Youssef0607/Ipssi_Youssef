@@ -1,0 +1,14 @@
+--- RAPPORT DE SÉCURITÉ YOUSSEF ---
+Date: jeu. 18 déc. 2025 13:44:50 UTC
+Utilisateurs connectés: 3
+Fichiers SUID critiques: /usr/bin/chsh
+/usr/bin/sudo
+/usr/bin/passwd
+/usr/bin/newgrp
+/usr/bin/gpasswd
+Dernières tentatives SSH: youssef  pts/0        192.168.1.15     Thu Dec 18 11:12    gone - no logout
+reboot   system boot  6.8.0-90-generic Thu Dec 18 11:11   still running
+reboot   system boot  6.8.0-90-generic Tue Dec 16 09:06 - 09:21  (00:15)
+reboot   system boot  6.8.0-90-generic Mon Dec 15 20:53 - 21:01  (00:08)
+
+wtmp begins Mon Dec 15 20:53:04 2025

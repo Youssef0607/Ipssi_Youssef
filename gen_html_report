@@ -1,0 +1,6 @@
+# Tentative d'ouverture automatique
+if command -v xdg-open &> /dev/null; then
+    xdg-open "$FILE" &
+elif command -v firefox &> /dev/null; then
+    firefox "$FILE" &
+fi
